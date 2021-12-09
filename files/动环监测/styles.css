@@ -2926,3 +2926,13 @@
   text-transform:none;
   visibility:hidden;
 }
+#u82 {
+  border-width:0px;
+  position:absolute;
+  left:804px;
+  top:226px;
+  width:69px;
+  height:29px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
