@@ -10,6 +10,8 @@
   line-height:normal;
   text-transform:none;
 }
+._图片_ {
+}
 ._标题1 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
@@ -106,6 +108,8 @@
   font-style:normal;
   font-size:24px;
   text-align:left;
+}
+.form_disabled {
 }
 .paragraph {
   text-align:left;
