@@ -185,4 +185,8 @@
 }
 .snapshot {
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 textarea, select, input, button { outline: none; }
