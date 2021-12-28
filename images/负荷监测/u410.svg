@@ -1,18 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="231px" height="236px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter x="673px" y="611px" width="231px" height="236px" filterUnits="userSpaceOnUse" id="filter63">
-      <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="2" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.2 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget64">
-      <path d="M 677 618  A 4 4 0 0 1 681 614 L 896 614  A 4 4 0 0 1 900 618 L 900 838  A 4 4 0 0 1 896 842 L 681 842  A 4 4 0 0 1 677 838 L 677 618  Z " fill-rule="nonzero" fill="#000000" stroke="none" fill-opacity="0.749019607843137" />
-    </g>
-  </defs>
-  <g transform="matrix(1 0 0 1 -673 -611 )">
-    <use xlink:href="#widget64" filter="url(#filter63)" />
-    <use xlink:href="#widget64" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="13px" height="9px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -646 -712 )">
+    <path d="M 652.5 712  C 656.14 712  659 713.98  659 716.5  C 659 719.02  656.14 721  652.5 721  C 648.86 721  646 719.02  646 716.5  C 646 713.98  648.86 712  652.5 712  Z " fill-rule="nonzero" fill="#1890ff" stroke="none" />
+    <path d="M 652.5 712.5  C 655.86 712.5  658.5 714.26  658.5 716.5  C 658.5 718.74  655.86 720.5  652.5 720.5  C 649.14 720.5  646.5 718.74  646.5 716.5  C 646.5 714.26  649.14 712.5  652.5 712.5  Z " stroke-width="1" stroke="#ffffff" fill="none" />
   </g>
 </svg>
