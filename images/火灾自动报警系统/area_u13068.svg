@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="306px" height="87px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="153" y1="87" x2="153" y2="0" id="LinearGradient287">
+      <stop id="Stop288" stop-color="#ffffff" offset="0" />
+      <stop id="Stop289" stop-color="#5b8ff9" offset="1" />
+    </linearGradient>
+    <mask fill="white" id="clip290">
+      <path d="M 0 86.5925190477219  L 0 58.2725928643889  L 50.8616128306012 56.2314325181847  L 101.767653758543 64.2336448598131  L 153.348519362187 53.2570093457944  L 204.678982366575 39.525652370983  L 256.26789936722 37.3167056591536  L 305.999999999999 0  L 306 87  L 0 86.5925190477219  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1321 -109 )">
+    <path d="M 0 86.5925190477219  L 0 58.2725928643889  L 50.8616128306012 56.2314325181847  L 101.767653758543 64.2336448598131  L 153.348519362187 53.2570093457944  L 204.678982366575 39.525652370983  L 256.26789936722 37.3167056591536  L 305.999999999999 0  L 306 87  L 0 86.5925190477219  Z " fill-rule="nonzero" fill="url(#LinearGradient287)" stroke="none" transform="matrix(1 0 0 1 1321 109 )" />
+    <path d="M 0 86.5925190477219  L 0 58.2725928643889  L 50.8616128306012 56.2314325181847  L 101.767653758543 64.2336448598131  L 153.348519362187 53.2570093457944  L 204.678982366575 39.525652370983  L 256.26789936722 37.3167056591536  L 305.999999999999 0  L 306 87  L 0 86.5925190477219  Z " stroke-width="2" stroke="#797979" fill="none" transform="matrix(1 0 0 1 1321 109 )" mask="url(#clip290)" />
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="37px" height="722px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="962.5" y1="26" x2="962.5" y2="748" id="LinearGradient374">
+      <stop id="Stop375" stop-color="#66ffff" offset="0" />
+      <stop id="Stop376" stop-color="#66ffff" offset="0.43" />
+      <stop id="Stop377" stop-color="#000000" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -944 -26 )">
+    <path d="M 980.5 33.4  C 980.5 33.4  980.5 740.6  980.5 740.6  C 980.5 744.632  972.16 747.5  962.5 747.5  C 952.84 747.5  944.5 744.632  944.5 740.6  C 944.5 740.6  944.5 33.4  944.5 33.4  C 944.5 29.368  952.84 26.5  962.5 26.5  C 972.16 26.5  980.5 29.368  980.5 33.4  Z " fill-rule="nonzero" fill="url(#LinearGradient374)" stroke="none" />
+    <path d="M 944.5 33.8897506925208  C 944.5 29.7514903047091  952.42 26.5  962.5 26.5  C 972.58 26.5  980.5 29.7514903047091  980.5 33.8897506925208  C 980.5 33.8897506925208  980.5 740.110249307479  980.5 740.110249307479  C 980.5 744.248509695291  972.58 747.5  962.5 747.5  C 952.42 747.5  944.5 744.248509695291  944.5 740.110249307479  C 944.5 740.110249307479  944.5 33.8897506925208  944.5 33.8897506925208  Z " stroke-width="1" stroke="#797979" fill="none" />
+    <path d="M 980.5 33.4  C 980.5 37.264  972.58 40.3  962.5 40.3  C 952.42 40.3  944.5 37.264  944.5 33.4  " stroke-width="1" stroke="#797979" fill="none" />
+  </g>
+</svg>

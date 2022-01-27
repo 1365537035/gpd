@@ -10,80 +10,116 @@
   line-height:normal;
   text-transform:none;
 }
-._图片_ {
+._形状 {
 }
-._标题1 {
+.box_1 {
+}
+.icon {
+}
+.box_2 {
+}
+.h14-black {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:left;
+}
+.box_3 {
+}
+._形状1 {
+}
+.image {
+}
+.placeholder {
+}
+._一级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
-._标题2 {
+._二级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
-._标题3 {
+._三级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
-._标题4 {
+._四级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
-._标题5 {
+._五级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
-.heading_6 {
+._六级标题 {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:10px;
   text-align:left;
 }
-._文本 {
+.line {
+}
+.arrow {
+}
+.label {
+  font-size:14px;
   text-align:left;
+}
+.horizontal_line {
+}
+.paragraph {
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+._文本段落 {
+  text-align:left;
+}
+._形状2 {
+}
+._文本链接 {
+  color:#0000FF;
 }
 ._表单提示 {
   color:#999999;
 }
 ._表单禁用 {
 }
-._流程形状 {
-}
-.shape {
-}
-.box_1 {
-}
-.placeholder {
-}
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.box_2 {
-}
-.box_3 {
-}
-.image {
+.text_area {
   color:#000000;
+  text-align:left;
 }
-.flow_shape {
+.droplist {
+  color:#000000;
+  text-align:left;
 }
-.line {
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
 }
 .checkbox {
   text-align:left;
@@ -91,9 +127,40 @@
 .radio_button {
   text-align:left;
 }
-._图像 {
+.html_button {
+  text-align:center;
+}
+.tree_node {
+  text-align:left;
+}
+._流程形状 {
+}
+.table_cell {
+}
+._连接线 {
+}
+.snapshot {
+}
+.menu_item {
 }
 .ellipse {
+}
+._图片 {
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
+}
+.button {
+}
+._默认样式 {
+}
+.paragraph1 {
+  text-align:left;
+}
+.icon1 {
 }
 .heading_1 {
   font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
@@ -109,84 +176,283 @@
   font-size:24px;
   text-align:left;
 }
-.form_disabled {
+.shape {
 }
-.paragraph {
-  text-align:left;
+.connector {
 }
-._图片 {
+.table_cell1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:13px;
   color:#000000;
 }
-._形状 {
+.image1 {
+  color:#000000;
 }
-.icon {
+.vertical_line {
+}
+.checkbox1 {
+  text-align:left;
+}
+.radio_button1 {
+  text-align:left;
+}
+.tree_node1 {
+  text-align:left;
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._下拉列表框 {
+  color:#000000;
+  text-align:left;
+}
+.box_11 {
+}
+.line1 {
+}
+._默认样式1 {
+}
+.text_field2 {
+  color:#000000;
+  text-align:left;
+}
+.heading_21 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.flow_shape {
+}
+.table {
 }
 .iconfont {
-  font-family:'iconfont ', 'iconfont', sans-serif;
+  font-family:'iconfont', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:18px;
   color:#666666;
 }
-.paragraph1 {
+.paragraph2 {
   text-align:left;
 }
-.label {
-  font-size:14px;
+.heading_11 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
   text-align:left;
 }
-._默认样式 {
-}
-.image1 {
-}
-.box_11 {
-  font-family:'微软雅黑', sans-serif;
+.label1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.el-button {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+}
+.el-button-primary {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
   color:#FFFFFF;
+  text-align:center;
 }
-.text_field {
-  color:#000000;
+.el-button-primary-plain {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:center;
+}
+.el-button-m {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+}
+.radio-check {
+}
+.radio-uncheck {
+  color:#333333;
+}
+.radio-label-check {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
   text-align:left;
 }
-.line1 {
-}
-._文本段落 {
+.radio-label-uncheck {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#6B6B6B;
   text-align:left;
 }
-._图片1 {
+.checkbox-check {
 }
-.text_field1 {
-  color:#000000;
+.checkbox-label-check {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
   text-align:left;
 }
-.image2 {
+.checkbox-uncheck {
+}
+.checkbox-label-uncheck {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.input-placeholder {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#C0C4CC;
+  text-align:left;
+}
+.inputed {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:left;
+}
+.input-textarea {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#C0C4CC;
+  text-align:left;
+}
+.tag {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#409EFF;
+  text-align:center;
+}
+.tag-success {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#67C23A;
+  text-align:center;
+}
+.tag-warning {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#E6A23C;
+  text-align:center;
+}
+.tag-info {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#606266;
+  text-align:center;
+}
+.tag-danger {
+  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#F56C6C;
+  text-align:center;
+}
+.badge {
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.el-shadow {
 }
 .box_21 {
 }
+.label2 {
+  font-size:14px;
+  text-align:left;
+}
+._形状3 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  color:#FF0066;
+}
+.shape1 {
+}
+.line2 {
+}
+.box_22 {
+}
 .ellipse1 {
+}
+.label3 {
+  font-size:14px;
+  text-align:left;
+}
+.ellipse2 {
+}
+.box_12 {
+}
+._文本段落1 {
+  text-align:left;
+}
+._图像 {
+}
+.icon2 {
+}
+._形状4 {
 }
 .refs-chart-data {
   font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
 }
-.box_12 {
-}
-.table_cell {
-}
-.ellipse2 {
-}
-.horizontal_line {
-}
-.icon1 {
-}
-.table_cell1 {
-}
-.snapshot {
-}
-.text_area {
+._图片1 {
   color:#000000;
-  text-align:left;
+}
+.box_13 {
+  font-family:'微软雅黑', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+.form_disabled {
 }
 textarea, select, input, button { outline: none; }
